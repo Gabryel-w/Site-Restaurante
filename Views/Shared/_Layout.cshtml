@@ -1,0 +1,80 @@
+﻿@using Microsoft.AspNetCore.Http
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="shortcut icon" href="~/Images/Logo.png" />
+</head>
+
+
+
+
+<header>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-blue">
+     <img class="logo" src="~/Images/Logo.png" alt="Logo">
+    <h1 class="titlecolor">Bom Sabor</h1>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTop" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarTop">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item btn btn-outline-primary ml-1"><a class="nav-link" asp-controller="Home" asp-action="Index" >Inicio</a> </li>
+      <li class="nav-item btn btn-outline-primary ml-1"><a class="nav-link" asp-controller="Home" asp-action="Galeria" >Galeria</a> </li>
+      <li class="nav-item btn btn-outline-primary ml-1"><a class="nav-link" asp-controller="Home" asp-action="Novidades">Novidades</a> </li>
+      <li class="nav-item btn btn-outline-primary ml-1"><a class="nav-link" asp-controller="Home" asp-action="Receitas">Receitas</a> </li>
+      <li class="nav-item btn btn-outline-primary ml-1"><a class="nav-link" asp-controller="Reserva" asp-action="CadastroReserva">Fazer Reserva</a> </li>
+      <li class="nav-item btn btn-outline-primary ml-1"><a class="nav-link" asp-controller="Reserva" asp-action="ListaReserva">Suas Reservas</a> </li>
+      <li class="nav-item btn btn-outline-primary ml-1"><a class="nav-link" asp-controller="Usuario" asp-action="Cadastro">Cadastrar</a> </li>
+      <li class="nav-item btn btn-outline-primary ml-1"><a class="nav-link" asp-controller="Usuario" asp-action="Login">Login</a> </li>
+    </ul>
+  </div>
+</nav>
+<div class="marg float-right">
+  @if(Context.Session.GetInt32("idUsuario") != null)
+                {
+    <span>Olá @Context.Session.GetString("nomeUsuario")</span>
+    <a class="btn btn-danger" asp-area="" asp-controller="Usuario" asp-action="Logout">Logout</a>
+                }
+ </div>
+</header>
+
+
+
+
+
+
+
+
+
+<body>
+    
+ 
+    <main role="main">
+        @RenderBody()
+    </main>
+    <footer>
+      <img class="logo" src="~/Images/Logo.png" alt="icon">
+      <h2 class="rounded mx-auto d-block">Todos os Direitos Reservados Restaurante Bom Sabor</h2>
+      
+     
+
+
+
+
+    </footer>
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.6/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+</body>
+</html>
+	

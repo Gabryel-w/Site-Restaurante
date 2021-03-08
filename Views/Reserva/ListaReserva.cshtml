@@ -1,0 +1,34 @@
+@model IEnumerable<Reserva>
+@{
+    ViewData["Title"] = "Gerenciar Reservas";
+}
+
+<div class=" lista  text-center">
+<h2>Reservas Agendadas</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id Reserva</th>
+            <th>Nome Cliente</th>
+            <th>Data Reserva</th>
+            <th>Numero Pessoas</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+        @foreach (Reserva u in Model)
+        {
+            <tr>
+                <td>@u.idReserva</td>
+                <td>@u.nomeCleinte</td>
+                <td>@u.dataReserva</td>
+                <td>@u.pessoasReserva</td>
+            </tr>
+        }
+    </tbody>
+     
+</table>
+
+<a class="btn btn-danger" asp-area="" asp-controller="Reserva" asp-action="ReservaDeleteTodos">Cancelar Reservas</a>
+
+</div>

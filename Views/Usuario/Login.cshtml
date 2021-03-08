@@ -1,0 +1,38 @@
+@model Usuario
+@{
+    ViewData["Title"] = "Login Bom Sabor";
+}
+
+
+<body #cadastro class="text-center">
+    <form class="form-signin" asp-action = "Login" method="POST">
+        <img class="logo" src="~/Images/Logo.png" alt="">
+        <h1 class="h3 mb-3 font-weight-normal">Faça o Login</h1>
+        <label class="sr-only" for="Login">Login:</label>
+        <input class="form-control" placeholder="Seu Login" autofocus required  asp-for="Login">
+        <label class="sr-only"  for="Senha">Senha:</label>
+        <input class="form-control" placeholder="Sua Senha" required  asp-for="Senha" type="password">
+        <input class="btn btn-primary btn-lg btn-block" type="submit" value="Logar">
+
+    </form>
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

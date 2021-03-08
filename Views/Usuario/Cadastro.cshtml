@@ -1,0 +1,50 @@
+@model Usuario 
+
+@{
+    ViewData["Title"] = "Cadastro BomSabor";
+}
+
+
+
+<body #cadastro class="text-center">
+    <form class="form-signin" asp-action = "Cadastro" method="POST">
+        <img class="logo" src="~/Images/Logo.png" alt="">
+        <h1 class="h3 mb-3 font-weight-normal">Faça o Cadastro</h1>
+        <p id = "pMensagem">@ViewBag.Mensagem</p> 
+        <label class="sr-only" for="Nome">Nome:</label>
+        <input class="form-control" placeholder="Seu Nome" autofocus required asp-for="Nome">
+        <label class="sr-only" for="Login">Login:</label>
+        <input class="form-control" placeholder="Seu Login" autofocus required  asp-for="Login">
+        <label class="sr-only"  for="Senha">Senha:</label>
+        <input class="form-control" placeholder="Sua Senha" required  asp-for="Senha" type="password">
+        <input class="btn btn-primary btn-lg btn-block" type="submit" value="Cadastrar">
+
+    </form>
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

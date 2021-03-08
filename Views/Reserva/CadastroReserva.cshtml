@@ -1,0 +1,48 @@
+@model Reserva 
+
+@{
+    ViewData["Title"] = "Reserve Sua Mesa";
+}
+
+
+
+<body #cadastro class="text-center">
+    <form class="form-signin" asp-action = "CadastroReserva" method="POST">
+        <img class="logo" src="~/Images/Logo.png" alt="">
+        <h1 class="h3 mb-3 font-weight-normal">Faça Sua Reserva</h1>
+        <p id = "pMensagem">@ViewBag.Mensagem</p> 
+        <label class="sr-only" for="nomeCleinte">Nome:</label>
+        <input class="form-control" placeholder="Seu Nome" autofocus required asp-for="nomeCleinte">
+        <label class="sr-only" for="dataReserva">Data da Reserva:</label>
+        <input class="form-control" placeholder="Data da Reserva" autofocus required  asp-for="dataReserva">
+        <label class="sr-only" for="pessoassReserva">Quantidade de Pessoas:</label>
+        <input class="form-control" placeholder="Quantidade De Pessoas" required  asp-for="pessoasReserva">
+        <input class="btn btn-primary btn-lg btn-block" type="submit" value="Fazer Reserva">
+
+    </form>
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Users\\Usuário\\Desktop\\Etapa 5 Projeto Integrador\\Projeto Restaurante Bom Sabor\\Atividade 3 Projeto Integrador.csproj": {}
+  },
+  "projects": {
+    "D:\\Users\\Usuário\\Desktop\\Etapa 5 Projeto Integrador\\Projeto Restaurante Bom Sabor\\Atividade 3 Projeto Integrador.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\Usuário\\Desktop\\Etapa 5 Projeto Integrador\\Projeto Restaurante Bom Sabor\\Atividade 3 Projeto Integrador.csproj",
+        "projectName": "Atividade 3 Projeto Integrador",
+        "projectPath": "D:\\Users\\Usuário\\Desktop\\Etapa 5 Projeto Integrador\\Projeto Restaurante Bom Sabor\\Atividade 3 Projeto Integrador.csproj",
+        "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Usuário\\Desktop\\Etapa 5 Projeto Integrador\\Projeto Restaurante Bom Sabor\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,141 @@
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\bin\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.exe
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\bin\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.deps.json
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\bin\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.runtimeconfig.json
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\bin\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.runtimeconfig.dev.json
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\bin\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.dll
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\bin\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.pdb
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\bin\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.Views.dll
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\bin\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.Views.pdb
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.csprojAssemblyReference.cache
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.AssemblyInfoInputs.cache
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.AssemblyInfo.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.csproj.CoreCompileInputs.cache
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.RazorAssemblyInfo.cache
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.RazorAssemblyInfo.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.TagHelpers.input.cache
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.TagHelpers.output.cache
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.RazorCoreGenerate.cache
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Home\Galeria.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Home\Novidades.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Home\Receitas.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.RazorTargetAssemblyInfo.cache
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.RazorTargetAssemblyInfo.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.Views.pdb
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 3 Projeto Integrador.StaticWebAssets.Manifest.cache
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 3 Projeto Integrador.StaticWebAssets.xml
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.dll
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.pdb
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.genruntimeconfig.cache
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.csproj.CopyComplete
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listar.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Logout.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\CadastroReserva.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\ListaReserva.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\NaoLogado.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\bin\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.exe
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\bin\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.deps.json
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\bin\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.runtimeconfig.json
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\bin\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.runtimeconfig.dev.json
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\bin\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.dll
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\bin\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.pdb
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\bin\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.Views.dll
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\bin\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.Views.pdb
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.csprojAssemblyReference.cache
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.AssemblyInfoInputs.cache
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.AssemblyInfo.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.csproj.CoreCompileInputs.cache
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.RazorAssemblyInfo.cache
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.RazorAssemblyInfo.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.TagHelpers.input.cache
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.TagHelpers.output.cache
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.RazorCoreGenerate.cache
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Razor\Views\Home\Galeria.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Razor\Views\Home\Novidades.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Razor\Views\Home\Receitas.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\CadastroReserva.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\ListaReserva.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\NaoLogado.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listar.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Logout.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.RazorTargetAssemblyInfo.cache
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.RazorTargetAssemblyInfo.cs
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.Views.pdb
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.csproj.CopyComplete
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 3 Projeto Integrador.StaticWebAssets.Manifest.cache
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 3 Projeto Integrador.StaticWebAssets.xml
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.dll
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.pdb
+D:\Users\Usuário\Documents\Programação Projetos\Atividade 3 Projeto Integrador Restaurante\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.genruntimeconfig.cache
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\bin\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.exe
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\bin\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.deps.json
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\bin\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.runtimeconfig.json
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\bin\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.runtimeconfig.dev.json
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\bin\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.dll
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\bin\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.pdb
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\bin\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.Views.dll
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\bin\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.Views.pdb
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.csprojAssemblyReference.cache
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.AssemblyInfoInputs.cache
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.AssemblyInfo.cs
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.csproj.CoreCompileInputs.cache
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.RazorAssemblyInfo.cache
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.RazorAssemblyInfo.cs
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.TagHelpers.input.cache
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.TagHelpers.output.cache
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.RazorCoreGenerate.cache
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Razor\Views\Home\Galeria.cshtml.g.cs
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Razor\Views\Home\Novidades.cshtml.g.cs
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Razor\Views\Home\Receitas.cshtml.g.cs
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\CadastroReserva.cshtml.g.cs
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\ListaReserva.cshtml.g.cs
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\NaoLogado.cshtml.g.cs
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listar.cshtml.g.cs
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Logout.cshtml.g.cs
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.RazorTargetAssemblyInfo.cache
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.RazorTargetAssemblyInfo.cs
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.Views.pdb
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.csproj.CopyComplete
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 3 Projeto Integrador.StaticWebAssets.Manifest.cache
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 3 Projeto Integrador.StaticWebAssets.xml
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.dll
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.pdb
+D:\Users\Usuário\Desktop\Etapa 5 Projeto Integrador\Projeto Restaurante Bom Sabor\obj\Debug\netcoreapp3.1\Atividade 3 Projeto Integrador.genruntimeconfig.cache
